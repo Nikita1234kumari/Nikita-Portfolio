@@ -95,8 +95,8 @@ const projects = [
       "Framer Motion animations",
       "Dark/light themes",
     ],
-    github: "#",
-    demo: "#",
+    github: "https://github.com/Nikita1234kumari/Nikita-Portfolio",
+    demo: "https://nikita-portfolio-vert.vercel.app",
     type: "Frontend",
   },
   {
